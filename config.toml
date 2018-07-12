@@ -1,0 +1,16 @@
+#baseURL = "http://manjoong.github.io/"
+
+languageCode = "en-us"
+title = "Cloud Z"
+theme = "docdock"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = "false"
+canonifyurls = "true"   
+datadir = "data"
+hasCJKLanguage = "true"
+paginate = "5"
+
+defaultContentLanguage = "ko"
