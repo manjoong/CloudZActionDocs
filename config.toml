@@ -2,7 +2,7 @@
 
 languageCode = "en-us"
 title = "Cloud Z"
-theme = "docdock"
+theme = "hugo-theme-learn"
 
 contentdir = "content"
 layoutdir = "layouts"
