@@ -52,7 +52,7 @@ API Endpoint는 해당 함수를 HTTPS 방식으로 Request/Response 할 수 있
 직접 만들기, 기존에 만들어준 내 함수에서 복사하여 만들기, 블루프린트의 템플릿을 이용하여 만들기 등 세가지 방법으로 만들 수 있습니다.
 > 베타 버전에서는 내 함수 복사, 블루 프린트 기능을 제공하지 않습니다.
 
-![Alt 함수 새로 만들기](/img/function_create.png)
+![Alt 함수 새로 만들기](../img/function_create.png)
 
 ### 함수이름 (**_필수 입력 사항_**)
 
@@ -113,7 +113,7 @@ API Endpoint는 해당 함수를 HTTPS 방식으로 Request/Response 할 수 있
 파일은 여러개 생성할 수 있으나, 메인 함수는 오직 하나여야 합니다.
 > 테스트 실행 시 비용이 발생됩니다.
 
-![Alt 코드 및 테스트](/img/function_edit.png)
+![Alt 코드 및 테스트](../../img/function_edit.png)
 
 ### 코드 작성 방법
 
