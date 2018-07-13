@@ -1,7 +1,9 @@
 ---
-title: "Cloud Z Action docs"
+menutitle: "Cloud Z Action docs"
 date: 2018-07-09T04:20:00Z
 draft: false
+chapter: false
+hidden: false
 weight: 1
 ---
 

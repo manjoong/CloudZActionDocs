@@ -1,11 +1,11 @@
 ---
-title: "Cloud Z Action docs2"
+menutitle: "Cloud Z Action docs2"
 date: 2018-07-09T04:20:00Z
 draft: false
 weight: 2
 ---
 
-# Cloud Z Action
+## Cloud Z Action
 
 Cloud Z Action는 서버 관리 없이 웹 애플리케이션을 개발할 수 있는 Cloud Service 입니다.  
 사용자는 Cloud Z Action를 통해 함수(애플리케이션 내의 단위 함수 모듈)를 작성할 수 있습니다. 그리고 이 함수를 실행할 수 있는 API 엔드포인트(함수를 실행할 수 있는 HTTP Request URL)를 생성할 수 있습니다.  
