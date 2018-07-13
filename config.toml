@@ -13,4 +13,5 @@ datadir = "data"
 hasCJKLanguage = "true"
 paginate = "5"
 
+
 defaultContentLanguage = "ko"
